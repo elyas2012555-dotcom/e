@@ -1,0 +1,8 @@
+{
+  "name": "TikTok Live Auction Manager",
+  "description": "A professional dashboard for managing real-time TikTok Live auctions with automated sniping delays, leaderboards, and stream overlays.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
